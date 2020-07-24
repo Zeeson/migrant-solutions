@@ -1,0 +1,37 @@
+body{
+	background-color: #E5E5E5;
+	
+}
+
+.back{
+	background-image: url("/home.png");
+	width: 100%;
+	height: 380px; 
+}
+
+.header-text {
+  font-size: 68px;
+  text-shadow: 2px 2px 10px black;
+  z-index: 10;
+  opacity: 5em; 
+  margin-top: 150px; 
+}
+
+.nav-header{
+	background-color: #E5E5E5 !important;
+}
+
+.nav-text-head{
+	font-size: 30px !important; 
+	text-shadow: 5px 5px 20px black;
+  z-index: 10;
+  opacity: 5em; 
+
+}
+
+.nav-item {
+text-shadow: 2px 2px 15px black;
+  z-index: 10;
+  opacity: 5em; 
+  font-size: 20px !important; 
+}
